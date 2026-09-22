@@ -1,0 +1,22 @@
+{
+  "name": "nabeel-astro-store",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Nabeel Astro Store — premium gaming top-up storefront",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --host --port 4173"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
